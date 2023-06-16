@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhengqiangtan
+- 👋 Hi, I’m @andy
 - 👀 I’m interested in bigdata 
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
